@@ -3,7 +3,7 @@
   <br>
   <hr>
   <h3>Me chamo João Levyski sou de Brasilia-DF/Brasil.
-  <h3>Sou atualmente estudante de <em>Desenvolvimento Web Full-Stack</em> na <a href="https://www.betrybe.com/">Trybe</a></h3>
+  <h3>Estou atualmente procurando emprego, sou um <em>Desenvolvimento Web Full-Stack</em></h3>
   <hr/>
 </div>
 <h2 align="center"> Linguagens
